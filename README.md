@@ -22,7 +22,7 @@ All comments, messages, pull requests, and other submissions received through CD
 
 ##Hat-tips
 
-Issac G[https://github.com/issacg/mocha-demo/] for creating an awesome starting point for testing with Mocha and CI with Bamboo
+[Issac G](https://github.com/issacg/mocha-demo/) for creating an awesome starting point for testing with Mocha and CI with Bamboo
 
 ## License
 
