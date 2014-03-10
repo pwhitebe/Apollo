@@ -11,7 +11,8 @@
   "author": "Informatics Inovation Unit",
   "license": "Apache v2",
   "dependencies": {
-    "express": "~3.4.4"
+    "express": "~3.4.4",
+      "neo4j": "*"
   },
   "devDependencies": {
     "supertest": "~0.8.1",
